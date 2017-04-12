@@ -1,8 +1,9 @@
 ---
 title: Post的“编辑”、”删除“功能
+date: 2016-12-24
 categories: fullstack
 tags:
-  - RoR
+  - Rails
 ---
 
 教程步骤：

@@ -1,5 +1,6 @@
 ---
 title: 开始 Rails101第二遍
+date: 2016-12-16
 categories: fullstack
 tags:
   - ORID

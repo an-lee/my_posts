@@ -1,5 +1,6 @@
 ---
 title: 如何更好地学习
+date: 2017-02-03
 categories: reading-notes
 tags:
   - growth

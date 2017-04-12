@@ -1,8 +1,9 @@
 ---
 title: git_push_rejected
+date: 2017-01-06
 categories: fullstack
 tags:
-  - RoR
+  - Rails
 ---
 
 教程步骤：

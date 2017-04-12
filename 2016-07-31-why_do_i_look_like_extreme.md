@@ -1,5 +1,6 @@
 ---
 title: 为什么我要显得比较极端
+date: 2016-07-31
 categories: reading-notes
 tags:
   - economics

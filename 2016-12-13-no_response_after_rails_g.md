@@ -1,8 +1,9 @@
 ---
 title: rails_g之后长时间无反应
+date: 2016-12-13
 categories: fullstack
 tags:
-  - RoR
+  - Rails
 ---
 
 教程步骤：

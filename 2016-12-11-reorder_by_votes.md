@@ -1,8 +1,9 @@
 ---
 title: '加分题：根据投票分数排序'
+date: 2016-12-11 07:00
 categories: [fullstack]
 tags:
-  - RoR
+  - Rails
 ---
 
 教程步骤：

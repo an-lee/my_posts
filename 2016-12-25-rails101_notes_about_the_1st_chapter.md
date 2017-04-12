@@ -1,8 +1,9 @@
 ---
 title: Rails101学习目标
+date: 2016-12-25
 categories: fullstack
 tags:
-  - RoR
+  - Rails
 ---
 
 ### 怎么把需求变成会动的 Rails 应用程式

@@ -3,7 +3,7 @@ title: localhost无法打开
 date: 2016-12-10 07:04
 categories: [fullstack]
 tags:
-  - RoR
+  - Rails
 ---
 
 教程步骤：

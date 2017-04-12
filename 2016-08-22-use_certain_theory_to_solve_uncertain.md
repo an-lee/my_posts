@@ -1,5 +1,6 @@
 ---
 title: 用确定的理论应对不确定的人生
+date: 2016-08-22
 categories: reading-notes
 tags:
   - economics

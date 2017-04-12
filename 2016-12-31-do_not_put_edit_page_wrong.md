@@ -1,8 +1,9 @@
 ---
 title: edit页面别放错位置了
+date: 2016-12-31
 categories: fullstack
 tags:
-  - RoR
+  - Rails
 ---
 
 教程步骤：

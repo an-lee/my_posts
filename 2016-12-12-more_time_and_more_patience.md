@@ -1,5 +1,6 @@
 ---
 title: 多花时间，保持耐心
+date: 2016-12-12
 categories: fullstack
 tags:
   - ORID

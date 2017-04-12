@@ -1,8 +1,9 @@
 ---
 title: HTML自学笔记
+date: 2017-01-18
 categories: fullstack
 tags:
-  - RoR
+  - Rails
   - HTML
   - cheatsheet
 ---

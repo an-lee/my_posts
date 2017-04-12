@@ -1,8 +1,9 @@
 ---
 title: devise_views
+date: 2017-01-09
 categories: fullstack
 tags:
-  - RoR
+  - Rails
 ---
 
 在论坛上学到 devise 的[进一步用法](http://forum.qzy.camp/t/topic/338/2)：

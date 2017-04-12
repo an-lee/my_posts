@@ -1,5 +1,6 @@
 ---
 title: Git命令总结
+date: 2016-12-31
 categories: fullstack
 tags:
   - cheatsheet

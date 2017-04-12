@@ -3,7 +3,7 @@ title: '加分题：扣分按钮的实现'
 date: 2016-12-08 05:41
 categories: [fullstack]
 tags:
-  - RoR
+  - Rails
 ---
 
 教程步骤：

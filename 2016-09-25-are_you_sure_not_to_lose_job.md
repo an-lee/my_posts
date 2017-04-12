@@ -1,5 +1,6 @@
 ---
 title: 你确定你不会失业吗？
+date: 2016-09-25
 categories: work
 tags:
   - growth

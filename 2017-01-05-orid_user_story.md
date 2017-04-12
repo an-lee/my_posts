@@ -1,5 +1,6 @@
 ---
 title: ORID_用户故事
+date: 2017-01-05
 categories: fullstack
 tags:
   - ORID

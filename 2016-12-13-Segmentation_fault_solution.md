@@ -1,8 +1,9 @@
 ---
 title: Segmentation_fault的解法
+date: 2016-12-13
 categories: fullstack
 tags:
-  - RoR
+  - Rails
 ---
 
 教程步骤：

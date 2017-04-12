@@ -1,5 +1,6 @@
 ---
 title: 我花掉的钱都买了些什么
+date: 2016-08-13
 categories: talks
 tags:
   - economics

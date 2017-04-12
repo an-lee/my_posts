@@ -1,5 +1,6 @@
 ---
 title: 竞争准则更重要
+date: 2016-08-02
 categories: reading-notes
 tags:
   - economics

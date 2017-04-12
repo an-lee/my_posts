@@ -3,7 +3,7 @@ title: 购物车的设计思路
 date: 2017-02-08
 categories: fullstack
 tags:
-  - RoR
+  - Rails
 typora-copy-images-to: ipic
 ---
 

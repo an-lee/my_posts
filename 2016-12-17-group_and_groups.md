@@ -1,8 +1,9 @@
 ---
 title: group和groups
+date: 2016-12-17
 categories: fullstack
 tags:
-  - RoR
+  - Rails
 ---
 
 教程步骤：

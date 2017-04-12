@@ -1,8 +1,9 @@
 ---
 title: 删除时没有弹窗确认
+date: 2016-12-17
 categories: fullstack
 tags:
-  - RoR
+  - Rails
 ---
 
 教程步骤：

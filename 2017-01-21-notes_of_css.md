@@ -1,8 +1,9 @@
 ---
 title: 自学CSS笔记
+date: 2017-01-21
 categories: fullstack
 tags:
-  - RoR
+  - Rails
   - CSS
   - cheatsheet
 ---

@@ -1,5 +1,6 @@
 ---
 title: 黎毕生的生存之道
+date: 2016-08-06
 categories: imagination
 tags:
   - story

@@ -1,8 +1,9 @@
 ---
 title: navbar显示不正常
+date: 2016-12-23
 categories: fullstack
 tags:
-  - RoR
+  - Rails
 ---
 
 教程步骤：

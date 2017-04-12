@@ -1,5 +1,6 @@
 ---
 title: Mac中特殊符号输入法
+date: 2016-12-16
 categories: fullstack
 tags:
   - cheatsheet

@@ -1,8 +1,9 @@
 ---
 title: Bootstrap学习
+date: 2017-01-28
 categories: fullstack
 tags:
-  - RoR
+  - Rails
   - bootstrap
 ---
 

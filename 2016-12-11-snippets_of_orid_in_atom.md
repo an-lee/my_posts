@@ -1,5 +1,6 @@
 ---
 title: '写ORID的模板:Atom的Snippets'
+date: 2016-12-11 06:30
 categories: [fullstack]
 tags:
   - snippets

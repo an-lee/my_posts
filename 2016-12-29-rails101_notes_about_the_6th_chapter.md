@@ -1,8 +1,9 @@
 ---
 title: Rails101第6章笔记
+date: 2016-12-28
 categories: fullstack
 tags:
-  - RoR
+  - Rails
 ---
 
 Rails 101已经完成了3遍，现在开始第四遍。这一遍开始，把自己的理解纪录下来。

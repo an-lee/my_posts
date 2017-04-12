@@ -1,8 +1,9 @@
 ---
 title: '加分题：新增About页面'
+date: 2016-12-11
 categories: [fullstack]
 tags:
-  - RoR
+  - Rails
 ---
 
 教程步骤：

@@ -1,5 +1,6 @@
 ---
 title: 我的爱情观
+date: 2016-07-24
 categories: talks
 tags:
   - relationship

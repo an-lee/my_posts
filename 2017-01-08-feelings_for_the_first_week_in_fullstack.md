@@ -1,5 +1,6 @@
 ---
 title: 全栈营第一周学习体会
+date: 2017-01-08
 categories: fullstack
 tags:
   - ORID

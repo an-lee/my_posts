@@ -1,8 +1,9 @@
 ---
 title: '完成Rails第二课：初级练习'
+date: 2016-12-11 06:00
 categories: [fullstack]
 tags:
-  - RoR
+  - Rails
 ---
 
 # Objective

@@ -3,7 +3,7 @@ title: ORID_购物车的设计
 date: 2017-02-07
 categories: fullstack
 tags:
-  - RoR
+  - Rails
 ---
 # Objective
 > 关于昨天天的课程, 你记得什么?

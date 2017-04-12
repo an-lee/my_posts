@@ -3,8 +3,8 @@ title: Session是什么意思
 date: 2017-02-07
 categories: fullstack
 tags: 
-  - RoR
-  - rails
+  - Rails
+  - Rails
 ---
 
 # 问题的提出

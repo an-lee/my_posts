@@ -1,5 +1,6 @@
 ---
 title: ORID_成为全栈的自己
+date: 2017-01-08
 categories: fullstack
 tags:
   - ORID

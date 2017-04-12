@@ -1,8 +1,9 @@
 ---
 title: Segmentation_fault再次出现
+date: 2016-12-14
 categories: fullstack
 tags:
-  - RoR
+  - Rails
 ---
 
 教程步骤：

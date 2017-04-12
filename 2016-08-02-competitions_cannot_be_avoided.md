@@ -1,5 +1,6 @@
 ---
 title: 逃不掉的竞争
+date: 2016-08-02
 categories: reading-notes
 tags:
   - economics

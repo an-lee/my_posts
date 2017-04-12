@@ -1,8 +1,9 @@
 ---
 title: 应聘者部分的思路猜想
+date: 2017-01-11
 categories: fullstack
 tags:
-  - RoR
+  - Rails
 ---
 
 「Rails 实战：招聘网站」的应聘者部分，根据[教程的提示](https://fullstack.xinshengdaxue.com/posts/367)，还是没理出清晰的思路，先整理出来，再看解答。

@@ -1,8 +1,9 @@
 ---
 title: 几个诡异的bug
+date: 2017-01-06
 categories: fullstack
 tags:
-  - RoR
+  - Rails
 ---
 
 这一周正式开课，进入Rails实战，但我的实作却一直卡在了最开始几步。按道理来说，Rails 101我刷了5遍，理应更顺利才对，但是事实再一次证明，哪里来的那么多「理应」？

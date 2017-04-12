@@ -1,8 +1,9 @@
 ---
 title: 全栈之路的开始
+date: 2016-12-08
 categories: fullstack
 tags:
-  - RoR
+  - Rails
 ---
 总结一下我要学习的「全栈」的理由
 

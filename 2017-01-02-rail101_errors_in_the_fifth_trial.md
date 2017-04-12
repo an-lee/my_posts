@@ -1,8 +1,9 @@
 ---
 title: Rail101第五遍还在犯的错误
+date: 2017-01-02
 categories: fullstack
 tags:
-  - RoR
+  - Rails
 ---
 
 今天从早上6点到中午11点，花了总计5个小时，把 Rails101 做了第五遍。

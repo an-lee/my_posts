@@ -1,8 +1,9 @@
 ---
 title: find_group_and_check_permission
+date: 2016-12-23
 categories: fullstack
 tags:
-  - RoR
+  - Rails
 ---
 
 教程步骤：

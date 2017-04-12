@@ -1,5 +1,6 @@
 ---
 title: 小米路由设置SSH
+date: 2016-12-25
 categories: fullstack
 tags:
   - cheatsheet

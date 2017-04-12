@@ -1,5 +1,6 @@
 ---
 title: 父子关系
+date: 2016-11-12
 categories: personal
 tags:
   - relationship

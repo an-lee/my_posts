@@ -1,5 +1,6 @@
 ---
 title: 我给我儿子取名字
+date: 2016-10-14
 categories: personal
 tags:
   - relationship

@@ -3,7 +3,7 @@ title: 'rails_console出错'
 date: 2016-12-10 08:34
 categories: [fullstack]
 tags:
-  - RoR
+  - Rails
 ---
 教程步骤：
 

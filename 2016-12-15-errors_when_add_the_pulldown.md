@@ -1,8 +1,9 @@
 ---
 title: 增加「下拉选单选项」后出错
+date: 2016-12-15
 categories: fullstack
 tags:
-  - RoR
+  - Rails
 ---
 
 教程步骤：

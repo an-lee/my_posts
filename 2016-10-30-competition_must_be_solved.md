@@ -1,5 +1,6 @@
 ---
 title: 竞争必须解决
+date: 2016-10-30
 categories: reading-notes
 tags:
   - economics

@@ -1,5 +1,6 @@
 ---
 title: 我们为什么要交易
+date: 2016-11-19
 categories: reading-notes
 tags:
   - economics

@@ -1,8 +1,9 @@
 ---
 title: has_many和belongs_to
+date: 2016-12-23
 categories: fullstack
 tags:
-  - RoR
+  - Rails
 ---
 
 在 [5-4](https://fullstack.xinshengdaxue.com/posts/73) 里建立了「群组」和「使用者」之间的联系。整个过程好像是这样的

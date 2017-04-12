@@ -1,8 +1,9 @@
 ---
 title: 'rails_generate无反应'
+date: 2016-12-10 08:00
 categories: [fullstack]
 tags:
-  - RoR
+  - Rails
 ---
 教程步骤：
 

@@ -1,5 +1,6 @@
 ---
 title: 遭遇配额之后如何占便宜
+date: 2016-11-14
 categories: reading-notes
 tags:
   - economics
